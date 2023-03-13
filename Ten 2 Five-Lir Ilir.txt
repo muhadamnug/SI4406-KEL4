@@ -4,9 +4,17 @@ Lir ilir lir ilir tandure wong sumilir tak ijo royo royo
 IKRAM ZAIDAN WICAKSONO
 Lir ilir lir ilir tandure wong sumilir tak ijo royo royo
 MUHAMMAD HAIDAR RAIS
+Lunyu lunyu penekna kanggo mbasuh dodotira
 QORINA HAZHIRATUL QUDSI AL AYYUBI
+<<<<<<< HEAD
 
 RIKY INDRA SAKTI
 Tak sengguh panganten anyar
 
 FITRINA ANNISA MUSTADA
+=======
+Dondomana jrumatana kanggo seba mengko sore
+RIKY INDRA SAKTI
+FITRINA ANNISA MUSTADA
+
+>>>>>>> a97d227e1c01508a9b520f108e2141818fd502de
