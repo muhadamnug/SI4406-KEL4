@@ -16,5 +16,8 @@ FITRINA ANNISA MUSTADA
 Dondomana jrumatana kanggo seba mengko sore
 RIKY INDRA SAKTI
 FITRINA ANNISA MUSTADA
+<<<<<<< HEAD
+Mumpung padang rembulane mumpung jembar kalangane
+=======
 
 >>>>>>> a97d227e1c01508a9b520f108e2141818fd502de
